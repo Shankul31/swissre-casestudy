@@ -1,0 +1,1327 @@
+[
+  {
+    "id": 1,
+    "customerName": "Customer 1",
+    "company": "Company 1",
+    "phoneNumber": "+1 415 555 0001",
+    "email": "customer1@example.test",
+    "country": "United States",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager"
+    ]
+  },
+  {
+    "id": 2,
+    "customerName": "Customer 2",
+    "company": "Company 2",
+    "phoneNumber": "+1 415 555 0002",
+    "email": "customer2@example.test",
+    "country": "United Kingdom",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 3,
+    "customerName": "Customer 3",
+    "company": "Company 3",
+    "phoneNumber": "+1 415 555 0003",
+    "email": "customer3@example.test",
+    "country": "India",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 4,
+    "customerName": "Customer 4",
+    "company": "Company 4",
+    "phoneNumber": "+1 415 555 0004",
+    "email": "customer4@example.test",
+    "country": "Spain",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin"
+    ]
+  },
+  {
+    "id": 5,
+    "customerName": "Customer 5",
+    "company": "Company 5",
+    "phoneNumber": "+1 415 555 0005",
+    "email": "customer5@example.test",
+    "country": "Australia",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager"
+    ]
+  },
+  {
+    "id": 6,
+    "customerName": "Customer 6",
+    "company": "Company 6",
+    "phoneNumber": "+1 415 555 0006",
+    "email": "customer6@example.test",
+    "country": "Germany",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 7,
+    "customerName": "Customer 7",
+    "company": "Company 7",
+    "phoneNumber": "+1 415 555 0007",
+    "email": "customer7@example.test",
+    "country": "United States",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 8,
+    "customerName": "Customer 8",
+    "company": "Company 8",
+    "phoneNumber": "+1 415 555 0008",
+    "email": "customer8@example.test",
+    "country": "United Kingdom",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin"
+    ]
+  },
+  {
+    "id": 9,
+    "customerName": "Customer 9",
+    "company": "Company 9",
+    "phoneNumber": "+1 415 555 0009",
+    "email": "customer9@example.test",
+    "country": "India",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager"
+    ]
+  },
+  {
+    "id": 10,
+    "customerName": "Customer 10",
+    "company": "Company 10",
+    "phoneNumber": "+1 415 555 0010",
+    "email": "customer10@example.test",
+    "country": "Spain",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 11,
+    "customerName": "Customer 11",
+    "company": "Company 11",
+    "phoneNumber": "+1 415 555 0011",
+    "email": "customer11@example.test",
+    "country": "Australia",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 12,
+    "customerName": "Customer 12",
+    "company": "Company 12",
+    "phoneNumber": "+1 415 555 0012",
+    "email": "customer12@example.test",
+    "country": "Germany",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin"
+    ]
+  },
+  {
+    "id": 13,
+    "customerName": "Customer 13",
+    "company": "Company 13",
+    "phoneNumber": "+1 415 555 0013",
+    "email": "customer13@example.test",
+    "country": "United States",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager"
+    ]
+  },
+  {
+    "id": 14,
+    "customerName": "Customer 14",
+    "company": "Company 14",
+    "phoneNumber": "+1 415 555 0014",
+    "email": "customer14@example.test",
+    "country": "United Kingdom",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 15,
+    "customerName": "Customer 15",
+    "company": "Company 15",
+    "phoneNumber": "+1 415 555 0015",
+    "email": "customer15@example.test",
+    "country": "India",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 16,
+    "customerName": "Customer 16",
+    "company": "Company 16",
+    "phoneNumber": "+1 415 555 0016",
+    "email": "customer16@example.test",
+    "country": "Spain",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin"
+    ]
+  },
+  {
+    "id": 17,
+    "customerName": "Customer 17",
+    "company": "Company 17",
+    "phoneNumber": "+1 415 555 0017",
+    "email": "customer17@example.test",
+    "country": "Australia",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager"
+    ]
+  },
+  {
+    "id": 18,
+    "customerName": "Customer 18",
+    "company": "Company 18",
+    "phoneNumber": "+1 415 555 0018",
+    "email": "customer18@example.test",
+    "country": "Germany",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 19,
+    "customerName": "Customer 19",
+    "company": "Company 19",
+    "phoneNumber": "+1 415 555 0019",
+    "email": "customer19@example.test",
+    "country": "United States",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 20,
+    "customerName": "Customer 20",
+    "company": "Company 20",
+    "phoneNumber": "+1 415 555 0020",
+    "email": "customer20@example.test",
+    "country": "United Kingdom",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin"
+    ]
+  },
+  {
+    "id": 21,
+    "customerName": "Customer 21",
+    "company": "Company 21",
+    "phoneNumber": "+1 415 555 0021",
+    "email": "customer21@example.test",
+    "country": "India",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager"
+    ]
+  },
+  {
+    "id": 22,
+    "customerName": "Customer 22",
+    "company": "Company 22",
+    "phoneNumber": "+1 415 555 0022",
+    "email": "customer22@example.test",
+    "country": "Spain",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 23,
+    "customerName": "Customer 23",
+    "company": "Company 23",
+    "phoneNumber": "+1 415 555 0023",
+    "email": "customer23@example.test",
+    "country": "Australia",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 24,
+    "customerName": "Customer 24",
+    "company": "Company 24",
+    "phoneNumber": "+1 415 555 0024",
+    "email": "customer24@example.test",
+    "country": "Germany",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin"
+    ]
+  },
+  {
+    "id": 25,
+    "customerName": "Customer 25",
+    "company": "Company 25",
+    "phoneNumber": "+1 415 555 0025",
+    "email": "customer25@example.test",
+    "country": "United States",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager"
+    ]
+  },
+  {
+    "id": 26,
+    "customerName": "Customer 26",
+    "company": "Company 26",
+    "phoneNumber": "+1 415 555 0026",
+    "email": "customer26@example.test",
+    "country": "United Kingdom",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 27,
+    "customerName": "Customer 27",
+    "company": "Company 27",
+    "phoneNumber": "+1 415 555 0027",
+    "email": "customer27@example.test",
+    "country": "India",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 28,
+    "customerName": "Customer 28",
+    "company": "Company 28",
+    "phoneNumber": "+1 415 555 0028",
+    "email": "customer28@example.test",
+    "country": "Spain",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin"
+    ]
+  },
+  {
+    "id": 29,
+    "customerName": "Customer 29",
+    "company": "Company 29",
+    "phoneNumber": "+1 415 555 0029",
+    "email": "customer29@example.test",
+    "country": "Australia",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager"
+    ]
+  },
+  {
+    "id": 30,
+    "customerName": "Customer 30",
+    "company": "Company 30",
+    "phoneNumber": "+1 415 555 0030",
+    "email": "customer30@example.test",
+    "country": "Germany",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 31,
+    "customerName": "Customer 31",
+    "company": "Company 31",
+    "phoneNumber": "+1 415 555 0031",
+    "email": "customer31@example.test",
+    "country": "United States",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 32,
+    "customerName": "Customer 32",
+    "company": "Company 32",
+    "phoneNumber": "+1 415 555 0032",
+    "email": "customer32@example.test",
+    "country": "United Kingdom",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin"
+    ]
+  },
+  {
+    "id": 33,
+    "customerName": "Customer 33",
+    "company": "Company 33",
+    "phoneNumber": "+1 415 555 0033",
+    "email": "customer33@example.test",
+    "country": "India",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager"
+    ]
+  },
+  {
+    "id": 34,
+    "customerName": "Customer 34",
+    "company": "Company 34",
+    "phoneNumber": "+1 415 555 0034",
+    "email": "customer34@example.test",
+    "country": "Spain",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 35,
+    "customerName": "Customer 35",
+    "company": "Company 35",
+    "phoneNumber": "+1 415 555 0035",
+    "email": "customer35@example.test",
+    "country": "Australia",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 36,
+    "customerName": "Customer 36",
+    "company": "Company 36",
+    "phoneNumber": "+1 415 555 0036",
+    "email": "customer36@example.test",
+    "country": "Germany",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin"
+    ]
+  },
+  {
+    "id": 37,
+    "customerName": "Customer 37",
+    "company": "Company 37",
+    "phoneNumber": "+1 415 555 0037",
+    "email": "customer37@example.test",
+    "country": "United States",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager"
+    ]
+  },
+  {
+    "id": 38,
+    "customerName": "Customer 38",
+    "company": "Company 38",
+    "phoneNumber": "+1 415 555 0038",
+    "email": "customer38@example.test",
+    "country": "United Kingdom",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 39,
+    "customerName": "Customer 39",
+    "company": "Company 39",
+    "phoneNumber": "+1 415 555 0039",
+    "email": "customer39@example.test",
+    "country": "India",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 40,
+    "customerName": "Customer 40",
+    "company": "Company 40",
+    "phoneNumber": "+1 415 555 0040",
+    "email": "customer40@example.test",
+    "country": "Spain",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin"
+    ]
+  },
+  {
+    "id": 41,
+    "customerName": "Customer 41",
+    "company": "Company 41",
+    "phoneNumber": "+1 415 555 0041",
+    "email": "customer41@example.test",
+    "country": "Australia",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager"
+    ]
+  },
+  {
+    "id": 42,
+    "customerName": "Customer 42",
+    "company": "Company 42",
+    "phoneNumber": "+1 415 555 0042",
+    "email": "customer42@example.test",
+    "country": "Germany",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 43,
+    "customerName": "Customer 43",
+    "company": "Company 43",
+    "phoneNumber": "+1 415 555 0043",
+    "email": "customer43@example.test",
+    "country": "United States",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 44,
+    "customerName": "Customer 44",
+    "company": "Company 44",
+    "phoneNumber": "+1 415 555 0044",
+    "email": "customer44@example.test",
+    "country": "United Kingdom",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin"
+    ]
+  },
+  {
+    "id": 45,
+    "customerName": "Customer 45",
+    "company": "Company 45",
+    "phoneNumber": "+1 415 555 0045",
+    "email": "customer45@example.test",
+    "country": "India",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager"
+    ]
+  },
+  {
+    "id": 46,
+    "customerName": "Customer 46",
+    "company": "Company 46",
+    "phoneNumber": "+1 415 555 0046",
+    "email": "customer46@example.test",
+    "country": "Spain",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 47,
+    "customerName": "Customer 47",
+    "company": "Company 47",
+    "phoneNumber": "+1 415 555 0047",
+    "email": "customer47@example.test",
+    "country": "Australia",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 48,
+    "customerName": "Customer 48",
+    "company": "Company 48",
+    "phoneNumber": "+1 415 555 0048",
+    "email": "customer48@example.test",
+    "country": "Germany",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin"
+    ]
+  },
+  {
+    "id": 49,
+    "customerName": "Customer 49",
+    "company": "Company 49",
+    "phoneNumber": "+1 415 555 0049",
+    "email": "customer49@example.test",
+    "country": "United States",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager"
+    ]
+  },
+  {
+    "id": 50,
+    "customerName": "Customer 50",
+    "company": "Company 50",
+    "phoneNumber": "+1 415 555 0050",
+    "email": "customer50@example.test",
+    "country": "United Kingdom",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 51,
+    "customerName": "Customer 51",
+    "company": "Company 51",
+    "phoneNumber": "+1 415 555 0051",
+    "email": "customer51@example.test",
+    "country": "India",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 52,
+    "customerName": "Customer 52",
+    "company": "Company 52",
+    "phoneNumber": "+1 415 555 0052",
+    "email": "customer52@example.test",
+    "country": "Spain",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin"
+    ]
+  },
+  {
+    "id": 53,
+    "customerName": "Customer 53",
+    "company": "Company 53",
+    "phoneNumber": "+1 415 555 0053",
+    "email": "customer53@example.test",
+    "country": "Australia",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager"
+    ]
+  },
+  {
+    "id": 54,
+    "customerName": "Customer 54",
+    "company": "Company 54",
+    "phoneNumber": "+1 415 555 0054",
+    "email": "customer54@example.test",
+    "country": "Germany",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 55,
+    "customerName": "Customer 55",
+    "company": "Company 55",
+    "phoneNumber": "+1 415 555 0055",
+    "email": "customer55@example.test",
+    "country": "United States",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 56,
+    "customerName": "Customer 56",
+    "company": "Company 56",
+    "phoneNumber": "+1 415 555 0056",
+    "email": "customer56@example.test",
+    "country": "United Kingdom",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin"
+    ]
+  },
+  {
+    "id": 57,
+    "customerName": "Customer 57",
+    "company": "Company 57",
+    "phoneNumber": "+1 415 555 0057",
+    "email": "customer57@example.test",
+    "country": "India",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager"
+    ]
+  },
+  {
+    "id": 58,
+    "customerName": "Customer 58",
+    "company": "Company 58",
+    "phoneNumber": "+1 415 555 0058",
+    "email": "customer58@example.test",
+    "country": "Spain",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 59,
+    "customerName": "Customer 59",
+    "company": "Company 59",
+    "phoneNumber": "+1 415 555 0059",
+    "email": "customer59@example.test",
+    "country": "Australia",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 60,
+    "customerName": "Customer 60",
+    "company": "Company 60",
+    "phoneNumber": "+1 415 555 0060",
+    "email": "customer60@example.test",
+    "country": "Germany",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin"
+    ]
+  },
+  {
+    "id": 61,
+    "customerName": "Customer 61",
+    "company": "Company 61",
+    "phoneNumber": "+1 415 555 0061",
+    "email": "customer61@example.test",
+    "country": "United States",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager"
+    ]
+  },
+  {
+    "id": 62,
+    "customerName": "Customer 62",
+    "company": "Company 62",
+    "phoneNumber": "+1 415 555 0062",
+    "email": "customer62@example.test",
+    "country": "United Kingdom",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 63,
+    "customerName": "Customer 63",
+    "company": "Company 63",
+    "phoneNumber": "+1 415 555 0063",
+    "email": "customer63@example.test",
+    "country": "India",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 64,
+    "customerName": "Customer 64",
+    "company": "Company 64",
+    "phoneNumber": "+1 415 555 0064",
+    "email": "customer64@example.test",
+    "country": "Spain",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin"
+    ]
+  },
+  {
+    "id": 65,
+    "customerName": "Customer 65",
+    "company": "Company 65",
+    "phoneNumber": "+1 415 555 0065",
+    "email": "customer65@example.test",
+    "country": "Australia",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager"
+    ]
+  },
+  {
+    "id": 66,
+    "customerName": "Customer 66",
+    "company": "Company 66",
+    "phoneNumber": "+1 415 555 0066",
+    "email": "customer66@example.test",
+    "country": "Germany",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 67,
+    "customerName": "Customer 67",
+    "company": "Company 67",
+    "phoneNumber": "+1 415 555 0067",
+    "email": "customer67@example.test",
+    "country": "United States",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 68,
+    "customerName": "Customer 68",
+    "company": "Company 68",
+    "phoneNumber": "+1 415 555 0068",
+    "email": "customer68@example.test",
+    "country": "United Kingdom",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin"
+    ]
+  },
+  {
+    "id": 69,
+    "customerName": "Customer 69",
+    "company": "Company 69",
+    "phoneNumber": "+1 415 555 0069",
+    "email": "customer69@example.test",
+    "country": "India",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager"
+    ]
+  },
+  {
+    "id": 70,
+    "customerName": "Customer 70",
+    "company": "Company 70",
+    "phoneNumber": "+1 415 555 0070",
+    "email": "customer70@example.test",
+    "country": "Spain",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 71,
+    "customerName": "Customer 71",
+    "company": "Company 71",
+    "phoneNumber": "+1 415 555 0071",
+    "email": "customer71@example.test",
+    "country": "Australia",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 72,
+    "customerName": "Customer 72",
+    "company": "Company 72",
+    "phoneNumber": "+1 415 555 0072",
+    "email": "customer72@example.test",
+    "country": "Germany",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin"
+    ]
+  },
+  {
+    "id": 73,
+    "customerName": "Customer 73",
+    "company": "Company 73",
+    "phoneNumber": "+1 415 555 0073",
+    "email": "customer73@example.test",
+    "country": "United States",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager"
+    ]
+  },
+  {
+    "id": 74,
+    "customerName": "Customer 74",
+    "company": "Company 74",
+    "phoneNumber": "+1 415 555 0074",
+    "email": "customer74@example.test",
+    "country": "United Kingdom",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 75,
+    "customerName": "Customer 75",
+    "company": "Company 75",
+    "phoneNumber": "+1 415 555 0075",
+    "email": "customer75@example.test",
+    "country": "India",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 76,
+    "customerName": "Customer 76",
+    "company": "Company 76",
+    "phoneNumber": "+1 415 555 0076",
+    "email": "customer76@example.test",
+    "country": "Spain",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin"
+    ]
+  },
+  {
+    "id": 77,
+    "customerName": "Customer 77",
+    "company": "Company 77",
+    "phoneNumber": "+1 415 555 0077",
+    "email": "customer77@example.test",
+    "country": "Australia",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager"
+    ]
+  },
+  {
+    "id": 78,
+    "customerName": "Customer 78",
+    "company": "Company 78",
+    "phoneNumber": "+1 415 555 0078",
+    "email": "customer78@example.test",
+    "country": "Germany",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 79,
+    "customerName": "Customer 79",
+    "company": "Company 79",
+    "phoneNumber": "+1 415 555 0079",
+    "email": "customer79@example.test",
+    "country": "United States",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 80,
+    "customerName": "Customer 80",
+    "company": "Company 80",
+    "phoneNumber": "+1 415 555 0080",
+    "email": "customer80@example.test",
+    "country": "United Kingdom",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin"
+    ]
+  },
+  {
+    "id": 81,
+    "customerName": "Customer 81",
+    "company": "Company 81",
+    "phoneNumber": "+1 415 555 0081",
+    "email": "customer81@example.test",
+    "country": "India",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager"
+    ]
+  },
+  {
+    "id": 82,
+    "customerName": "Customer 82",
+    "company": "Company 82",
+    "phoneNumber": "+1 415 555 0082",
+    "email": "customer82@example.test",
+    "country": "Spain",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 83,
+    "customerName": "Customer 83",
+    "company": "Company 83",
+    "phoneNumber": "+1 415 555 0083",
+    "email": "customer83@example.test",
+    "country": "Australia",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 84,
+    "customerName": "Customer 84",
+    "company": "Company 84",
+    "phoneNumber": "+1 415 555 0084",
+    "email": "customer84@example.test",
+    "country": "Germany",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin"
+    ]
+  },
+  {
+    "id": 85,
+    "customerName": "Customer 85",
+    "company": "Company 85",
+    "phoneNumber": "+1 415 555 0085",
+    "email": "customer85@example.test",
+    "country": "United States",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager"
+    ]
+  },
+  {
+    "id": 86,
+    "customerName": "Customer 86",
+    "company": "Company 86",
+    "phoneNumber": "+1 415 555 0086",
+    "email": "customer86@example.test",
+    "country": "United Kingdom",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 87,
+    "customerName": "Customer 87",
+    "company": "Company 87",
+    "phoneNumber": "+1 415 555 0087",
+    "email": "customer87@example.test",
+    "country": "India",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 88,
+    "customerName": "Customer 88",
+    "company": "Company 88",
+    "phoneNumber": "+1 415 555 0088",
+    "email": "customer88@example.test",
+    "country": "Spain",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin"
+    ]
+  },
+  {
+    "id": 89,
+    "customerName": "Customer 89",
+    "company": "Company 89",
+    "phoneNumber": "+1 415 555 0089",
+    "email": "customer89@example.test",
+    "country": "Australia",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager"
+    ]
+  },
+  {
+    "id": 90,
+    "customerName": "Customer 90",
+    "company": "Company 90",
+    "phoneNumber": "+1 415 555 0090",
+    "email": "customer90@example.test",
+    "country": "Germany",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 91,
+    "customerName": "Customer 91",
+    "company": "Company 91",
+    "phoneNumber": "+1 415 555 0091",
+    "email": "customer91@example.test",
+    "country": "United States",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 92,
+    "customerName": "Customer 92",
+    "company": "Company 92",
+    "phoneNumber": "+1 415 555 0092",
+    "email": "customer92@example.test",
+    "country": "United Kingdom",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin"
+    ]
+  },
+  {
+    "id": 93,
+    "customerName": "Customer 93",
+    "company": "Company 93",
+    "phoneNumber": "+1 415 555 0093",
+    "email": "customer93@example.test",
+    "country": "India",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager"
+    ]
+  },
+  {
+    "id": 94,
+    "customerName": "Customer 94",
+    "company": "Company 94",
+    "phoneNumber": "+1 415 555 0094",
+    "email": "customer94@example.test",
+    "country": "Spain",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 95,
+    "customerName": "Customer 95",
+    "company": "Company 95",
+    "phoneNumber": "+1 415 555 0095",
+    "email": "customer95@example.test",
+    "country": "Australia",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 96,
+    "customerName": "Customer 96",
+    "company": "Company 96",
+    "phoneNumber": "+1 415 555 0096",
+    "email": "customer96@example.test",
+    "country": "Germany",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin"
+    ]
+  },
+  {
+    "id": 97,
+    "customerName": "Customer 97",
+    "company": "Company 97",
+    "phoneNumber": "+1 415 555 0097",
+    "email": "customer97@example.test",
+    "country": "United States",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager"
+    ]
+  },
+  {
+    "id": 98,
+    "customerName": "Customer 98",
+    "company": "Company 98",
+    "phoneNumber": "+1 415 555 0098",
+    "email": "customer98@example.test",
+    "country": "United Kingdom",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 99,
+    "customerName": "Customer 99",
+    "company": "Company 99",
+    "phoneNumber": "+1 415 555 0099",
+    "email": "customer99@example.test",
+    "country": "India",
+    "status": "Active",
+    "visibleTo": [
+      "admin",
+      "manager",
+      "viewer"
+    ]
+  },
+  {
+    "id": 100,
+    "customerName": "Customer 100",
+    "company": "Company 100",
+    "phoneNumber": "+1 415 555 0100",
+    "email": "customer100@example.test",
+    "country": "Spain",
+    "status": "Inactive",
+    "visibleTo": [
+      "admin"
+    ]
+  }
+]
